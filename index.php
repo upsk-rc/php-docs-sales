@@ -1,4 +1,3 @@
-<img src="https://storageaccmarketing012.blob.core.windows.net/container-marketing-012/file_001.jpg" alt="Bacony Logo">
 
 <p>At Bacony, we pride ourselves on providing high-quality, delicious bacon products. From classic bacon strips to gourmet bacon flavors, we have something for every bacon lover.</p>
 
