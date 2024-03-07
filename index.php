@@ -1,4 +1,3 @@
-
 <p>At Bacony, we pride ourselves on providing high-quality, delicious bacon products. From classic bacon strips to gourmet bacon flavors, we have something for every bacon lover.</p>
 
 <h2>Our Products:</h2>
