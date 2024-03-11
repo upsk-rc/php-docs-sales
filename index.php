@@ -1,13 +1,25 @@
-<p>At Bacony, we pride ourselves on providing high-quality, delicious bacon products. From classic bacon strips to gourmet bacon flavors, we have something for every bacon lover.</p>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to Bacon Co.</title>
+</head>
+<body>
+    <h1><font color="#FF0000">Bacon Co.</font></h1>
+    <p>Welcome to Bacon Co. We are your one-stop shop for all things bacon!</p>
 
-<h2>Our Products:</h2>
-<ul>
-    <li>Classic Bacon Strips</li>
-    <li>Maple Bacon</li>
-    <li>Honey Sriracha Bacon</li>
-    <li>Peppered Bacon</li>
-    <li>Applewood Smoked Bacon</li>
-</ul>
+    <h2>Our Products:</h2>
+    <ul>
+        <li>Bacon Strips</li>
+        <li>Bacon Bits</li>
+        <li>Bacon Jam</li>
+    </ul>
 
-<h2>Contact Us:</h2>
-<p>If you have any questions or would like to place an order, please contact us at <a href="mailto:info@bacony.com">info@bacony.com</a> or give us a call at 1-800-BACONY.</p>
+    <h2>Contact Us:</h2>
+    <p>Email: baconco@gmail.com</p>
+    <p>Phone: 555-555-5555</p>
+
+    <h2>Follow Us:</h2>
+    <p>Facebook: <a href="https://www.facebook.com/baconco">Bacon Co. Facebook</a></p>
+    <p>Twitter: <a href="https://twitter.com/baconco">Bacon Co. Twitter</a></p>
+</body>
+</html>
